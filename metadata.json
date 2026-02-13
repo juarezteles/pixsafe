@@ -1,0 +1,5 @@
+{
+  "name": "PixSafe",
+  "description": "Uma plataforma de segurança para consultas anonimizadas de chaves Pix, focada em prevenção de golpes e conformidade com a LGPD através de hashing SHA-256 local.",
+  "requestFramePermissions": []
+}
